@@ -132,7 +132,7 @@
                     </webApp>
                 </configuration>
             </plugin>
-		<!-- CODE COVERAGE -->
+		<!-- CODE COVERGE -->
 		    <plugin>
 		        <groupId>org.jacoco</groupId>
 		        <artifactId>jacoco-maven-plugin</artifactId>
